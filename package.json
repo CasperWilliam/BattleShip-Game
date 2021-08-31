@@ -1,0 +1,27 @@
+{
+  "name": "battleship",
+  "version": "1.0.0",
+  "description": "a console battleship simulator",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CasperWilliam/battleship.git"
+  },
+  "keywords": [
+    "battle",
+    "ship"
+  ],
+  "author": "Casper William",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CasperWilliam/battleship/issues"
+  },
+  "homepage": "https://github.com/CasperWilliam/battleship#readme",
+  "dependencies": {
+    "keypress": "^0.2.1",
+    "readline-sync": "^1.4.10"
+  }
+}
